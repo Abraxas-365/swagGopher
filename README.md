@@ -15,9 +15,6 @@ git clone https://github.com/yourusername/swagGopher.git
 cd swagGopher
 go build -o swagGopher
 ```
-```bash
-```
-
 ## Usage 📚
 
 ### Generating Route Files
