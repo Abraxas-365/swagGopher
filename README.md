@@ -1,4 +1,4 @@
-# swagGopher CLI 🐹✨
+# SwagGopher CLI 🐹✨
 
 Welcome to the **swagGopher CLI**! Transform your OpenAPI specs into JSON route files with the elegance of a gopher in sunglasses. Whether you're debugging, documenting, or just showing off, swagGopher has got your back.
 
